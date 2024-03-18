@@ -14,4 +14,5 @@ int main(){
     cout << "Nilai akhir = " << nBilangan << endl;
 
     return 0;
+    mai
 }
